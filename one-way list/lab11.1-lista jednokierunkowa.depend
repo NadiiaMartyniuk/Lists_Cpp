@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685437300 source:c:\users\nadia\desktop\algorytmika\lab11.1-lista jednokierunkowa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<sstream>
+
